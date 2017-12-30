@@ -1,3 +1,9 @@
+# Functions used:
+    1. line_display: Function just for display purposes
+    2. scores: To manage player scores
+    3. show_scores: Function to display scores
+    4. play_game: Main function that starts the game
+#########################################################################################    
 def line_display(): #function to print the '-' lines
     print('-------------------------------')
 player_score=0     #initilizing the scores
